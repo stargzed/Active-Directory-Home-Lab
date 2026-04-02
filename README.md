@@ -108,19 +108,6 @@ Used logs to:
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots in the /images folder and reference them here)*
-
-Example:
-
-* Active Directory setup
-* Domain join confirmation
-* Event Viewer logs (4776 / 4625)
-* Spiceworks ticket dashboard
-
----
-
 ## 🧾 Key Takeaways
 
 This project demonstrates how enterprise environments manage user authentication, handle IT incidents, and analyze security events. It provided hands-on experience troubleshooting real-world issues such as login failures, account lockouts, and permission misconfigurations.
